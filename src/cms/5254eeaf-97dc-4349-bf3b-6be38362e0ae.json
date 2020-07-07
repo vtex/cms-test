@@ -17,6 +17,13 @@
       "props": {
         "text": ""
       }
+    },
+    {
+      "id": "1594149182363",
+      "name": "vtex.rich-text@0.x/rich-text",
+      "props": {
+        "text": ""
+      }
     }
   ]
 }
