@@ -3,5 +3,20 @@
     "title": "New preview",
     "description": "New preview"
   },
-  "blocks": []
+  "blocks": [
+    {
+      "id": "1594148870639",
+      "name": "vtex.rich-text@0.x/rich-text",
+      "props": {
+        "text": ""
+      }
+    },
+    {
+      "id": "1594148919107",
+      "name": "vtex.rich-text@0.x/rich-text",
+      "props": {
+        "text": ""
+      }
+    }
+  ]
 }
