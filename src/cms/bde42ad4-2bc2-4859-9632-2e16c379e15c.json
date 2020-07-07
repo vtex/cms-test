@@ -1,6 +1,8 @@
 {
   "meta": {
-    "title": "New page"
+    "title": "New page with timestamp 2",
+    "description": "New page",
+    "slug": "/new-page"
   },
   "blocks": [
     {
