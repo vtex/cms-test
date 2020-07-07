@@ -1,5 +1,26 @@
 {
-  "blocks": [],
+  "blocks": [
+    {
+      "id": "1594146948914",
+      "name": "vtex.rich-text@0.x/rich-text",
+      "props": {
+        "text": "First"
+      }
+    },
+    {
+      "id": "1594146951485",
+      "name": "vtex.store-components@3.x/InfoCard",
+      "props": {
+        "headline": "First infoCard",
+        "subhead": "",
+        "callToActionText": "click here",
+        "callToActionUrl": "https://vtex.com.br",
+        "imageUrl": "",
+        "mobileImageUrl": "",
+        "imageActionUrl": "https://vtex.com.br"
+      }
+    }
+  ],
   "meta": {
     "title": "Black Friday",
     "description": "Black Friday 2020!",
