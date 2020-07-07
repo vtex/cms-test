@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "title": "New page"
+  },
+  "blocks": [
+    {
+      "id": "1594150976939",
+      "name": "vtex.rich-text@0.x/rich-text",
+      "props": {
+        "text": "Text"
+      }
+    }
+  ]
+}
