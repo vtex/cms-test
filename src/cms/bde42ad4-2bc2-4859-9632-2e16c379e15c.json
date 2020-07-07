@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "title": "New page with timestamp 2",
+    "description": "New page",
+    "slug": "/new-page"
+  },
+  "blocks": [
+    {
+      "id": "1594150976939",
+      "name": "vtex.rich-text@0.x/rich-text",
+      "props": {
+        "text": "Text"
+      }
+    },
+    {
+      "id": "1594151635864",
+      "name": "vtex.rich-text@0.x/rich-text",
+      "props": {
+        "text": ""
+      }
+    }
+  ]
+}
