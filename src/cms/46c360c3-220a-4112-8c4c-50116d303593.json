@@ -1,12 +1,6 @@
 {
   "meta": {
-    "title": "New web page"
+    "title": "Nova Variant"
   },
-  "blocks": [
-    {
-      "id": "1594326916830",
-      "name": "Header",
-      "props": {}
-    }
-  ]
+  "blocks": []
 }
