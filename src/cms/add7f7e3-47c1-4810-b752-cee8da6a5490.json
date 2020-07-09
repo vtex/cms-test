@@ -1,12 +1,6 @@
 {
   "meta": {
-    "title": "Web page123"
+    "title": "Web page 345"
   },
-  "blocks": [
-    {
-      "id": "1594326251114",
-      "name": "Header",
-      "props": {}
-    }
-  ]
+  "blocks": []
 }
