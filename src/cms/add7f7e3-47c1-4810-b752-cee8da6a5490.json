@@ -1,6 +1,7 @@
 {
   "meta": {
-    "title": "My web page"
+    "title": "My web page",
+    "description": "My web page"
   },
   "blocks": []
 }
