@@ -2,5 +2,11 @@
   "meta": {
     "title": "Web page"
   },
-  "blocks": []
+  "blocks": [
+    {
+      "id": "1594324614289",
+      "name": "Header",
+      "props": {}
+    }
+  ]
 }
