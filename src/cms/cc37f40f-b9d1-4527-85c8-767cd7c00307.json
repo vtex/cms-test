@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "title": "Teste new page",
+    "description": "Teste new page"
+  },
+  "blocks": [
+    {
+      "id": "1594403361656",
+      "name": "Header",
+      "props": {}
+    }
+  ]
+}
