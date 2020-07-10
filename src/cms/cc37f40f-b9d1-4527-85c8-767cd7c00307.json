@@ -1,7 +1,8 @@
 {
   "meta": {
-    "title": "Teste new page",
-    "description": "Teste new page"
+    "title": "Teste new page!!!",
+    "description": "Teste new page",
+    "slug": "/updated-slug"
   },
   "blocks": [
     {
